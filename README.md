@@ -12,5 +12,4 @@ OG-OS is an "external operating system" built completely in Python, similar to P
 > * Process Viewer
 > * Version Check
 
-
-![ogoslogo](https://github.com/user-attachments/assets/5b185b7e-ecdb-44a4-9fd0-181baaa4edad)
+![ogoslogo](https://github.com/user-attachments/assets/e4ea4b58-23c6-47bb-a301-cf2a3d415347)
