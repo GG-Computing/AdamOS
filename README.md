@@ -1,5 +1,5 @@
 # OG-OS
-OG-OS is an external operating system built completely in Python, similar to Python-OS it runs layered on top of windows.
+OG-OS is an "external operating system" built completely in Python, similar to Python-OS it runs layered on top of windows.
 
 ### Features
 > * File manager
