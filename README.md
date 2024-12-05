@@ -10,6 +10,7 @@ OG-OS is an external operating system built completely in Python, similar to Pyt
 > * OS Settings
 > * Video Player
 > * Process Viewer
-> * Version Check\
+> * Version Check
+
 
 ![ogoslogo](https://github.com/user-attachments/assets/5b185b7e-ecdb-44a4-9fd0-181baaa4edad)
