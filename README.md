@@ -10,7 +10,7 @@ OG-OS is an open-source "external operating system" built completely in Python, 
 > * CLI
 > * Window Manager
 > * File manager
-> * Python IDE
+> * Python IDE / Text Editor
 > * Task Manager
 > * OS Settings
 > * Video Player
