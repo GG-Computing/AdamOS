@@ -17,3 +17,5 @@ ConOS is an open-source "external operating system" built completely in Python, 
 > * 16-Bit Music Composition Tool
 > * Process Viewer
 > * Version Updates
+
+![ConOSLogo](https://github.com/user-attachments/assets/9e3aec8d-8181-48c3-9937-2ce4ab294f0e)
