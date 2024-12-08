@@ -1,4 +1,4 @@
-# OG-OS
+# Con-OS
 ConOS is an open-source "external operating system" built completely in Python, similar to Py-OS, it runs layered on top of windows.
 
 
