@@ -1,5 +1,5 @@
 # OG-OS
-OG-OS is an open-source "external operating system" built completely in Python, similar to Py-OS, it runs layered on top of windows.
+ConOS is an open-source "external operating system" built completely in Python, similar to Py-OS, it runs layered on top of windows.
 
 
 **⚠️ This project is being created purely for leisure and out of boredom, the fate of this project is unknown and may not be released.**
@@ -17,5 +17,3 @@ OG-OS is an open-source "external operating system" built completely in Python, 
 > * 16-Bit Music Composition Tool
 > * Process Viewer
 > * Version Updates
-
-![ogoslogo](https://github.com/user-attachments/assets/1f4c2b6a-6697-4503-9b30-e95e94fd4854)
