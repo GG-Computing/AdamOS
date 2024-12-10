@@ -25,23 +25,17 @@ OG-OS is an "external" operating system built in python which layers over any op
 ### Executing program
 
 * Coming soon
-```
-code blocks for commands
-```
 
 ## Help
 
 Coming Soon.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
 Contributors names and contact info
 
 Oliver G
-ex. [@OG-Technologies](https://github.com/OG-Technologies)
+[@OG-Technologies](https://github.com/OG-Technologies)
 
 ## License
 
