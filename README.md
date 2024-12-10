@@ -1,4 +1,4 @@
-# OG-OS
+ # OG-OS
 
 OG-OS is an "external" operating system built in python which layers over any operating system that runs python. It was developed as a hobby and to work on my skills.
 
@@ -14,11 +14,11 @@ OG-OS is an "external" operating system built in python which layers over any op
 
 ## Main Features
 
-* **- Process Viewer**
-* **- Python IDE**
-* **- File Manager**
-* **- Customizable CLI**
-* **- Games Library**
+* **Process Viewer**
+* **Python IDE**
+* **File Manager**
+* **Customizable CLI**
+* **Games Library**
 
 ### Dependencies
 
