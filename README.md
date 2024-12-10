@@ -4,13 +4,13 @@ OG-OS is an "external" operating system built in python which layers over any op
 
 ## Why use it?
 
-* **- Focuses on Productivity:** No distractions in this operating system.
-* **- Free and Open Source:** Available for free with no licensing fees.
-* **- Runs anywhere Python does:** Anywhere Python will run, OG-OS will.
-* **- No Bloatware:** Unlike modern-day operating systems, OG-OS starts from scratch and allows the user to build the OS for themselves.
-* **- Customizable:** OG-OS allows you to tweek the main source code, and update it in the OS in real-time.
-* **- Lightweight and Minimalistic:** OG-OS is extremely minimalistic providing only the essential features you need at startup.
-* **- Educational:** Learn the inner workings of an "external" operating system built from scratch in python.
+* **Focuses on Productivity:** No distractions in this operating system.
+* **Free and Open Source:** Available for free with no licensing fees.
+* **Runs anywhere Python does:** Anywhere Python will run, OG-OS will.
+* **No Bloatware:** Unlike modern-day operating systems, OG-OS starts from scratch and allows the user to build the OS for themselves.
+* **Customizable:** OG-OS allows you to tweek the main source code, and update it in the OS in real-time.
+* **Lightweight and Minimalistic:** OG-OS is extremely minimalistic providing only the essential features you need at startup.
+* **Educational:** Learn the inner workings of an "external" operating system built from scratch in python.
 
 ## Main Features
 
