@@ -40,8 +40,8 @@ Coming Soon.
 
 Contributors names and contact info
 
-Oliver G
-[@OG-Technologies](https://github.com/OG-Technologies)
+@Oliver G
+@Ryan G
 
 ## License
 
