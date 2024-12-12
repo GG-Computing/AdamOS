@@ -14,7 +14,7 @@ GG-OS is an "external" operating system built in python which layers over any op
 
 ## Main Features
 
-* **Process Viewer**
+* **Resource Monitor**
 * **Python IDE**
 * **File Manager**
 * **Customizable CLI**
