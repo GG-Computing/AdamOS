@@ -9,7 +9,7 @@ AdamOS is an "external" operating system built in python which layers over any o
 * **Runs anywhere Python does:** Anywhere Python will run, AdamOS will.
 * **No Bloatware:** Unlike modern-day operating systems, AdamOS starts from scratch and allows the user to build the OS for themselves.
 * **Customizable:** AdamOS allows you to tweek the main source code, and update it in the OS in real-time.
-* **Lightweight and Minimalistic:**AdamOS is extremely minimalistic providing only the essential features you need at startup.
+* **Lightweight and Minimalistic:** AdamOS is extremely minimalistic providing only the essential features you need at startup.
 * **Educational:** Learn the inner workings of an "external" operating system built from scratch in python.
 
 ## Main Features
