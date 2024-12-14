@@ -2,7 +2,9 @@
 
 AdamOS is python based "external" operating system built in python which layers over any operating system that runs python. It was developed as a hobby and to work on my skills.
 
-![AdamOS](https://github.com/user-attachments/assets/66467a56-3f6a-495f-ae4c-200310493ee9)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/66467a56-3f6a-495f-ae4c-200310493ee9" alt="AdamOS">
+</p>
 
 ## Why use it?
 
