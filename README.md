@@ -1,6 +1,6 @@
  # AdamOS
 
-AdamOS is an "external" operating system built in python which layers over any operating system that runs python. It was developed as a hobby and to work on my skills.
+AdamOS is python based "external" operating system built in python which layers over any operating system that runs python. It was developed as a hobby and to work on my skills.
 
 ## Why use it?
 
