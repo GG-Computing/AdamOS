@@ -23,7 +23,8 @@ AdamOS is python based "external" operating system built in python which layers 
 * **Customizable CLI**
 * **Games Library**
 * **Sprite Editor**
-* **.py Compiler**
+* **.py Builder**
+* **16-bit Music Composition Tool**
 
 ### Contributions
 * Due to AdamOS only being developed by 2 people, contributions are welcome to speed up the development process.
