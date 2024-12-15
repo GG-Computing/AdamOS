@@ -1,4 +1,4 @@
- # AdamOS | Releasing Soon, Star the Repo!
+ # AdamOS | Releasing Soon, ⭐ the repo!
 
 AdamOS is python based "external" operating system built in python which layers over any operating system that runs python. It was developed as a hobby and to work on my skills.
 
