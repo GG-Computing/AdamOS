@@ -30,10 +30,6 @@ AdamOS is python based "external" operating system built in python which layers 
 ### Contributions
 * Due to AdamOS only being developed by 2 people, contributions are welcome to speed up the development process.
 
-### Dependencies
-
-* Any pre-loaded operating system that has and will run Python (tkinter).
-
 ### Installing
 
 * Coming soon
