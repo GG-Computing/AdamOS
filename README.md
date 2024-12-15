@@ -18,7 +18,7 @@ AdamOS is python based "external" operating system built in python which layers 
 ## Main Features
 
 * **Resource Monitor**
-* **Python IDE**
+* **Python IDE & Debugger**
 * **File Manager**
 * **Customizable CLI**
 * **Games Library**
