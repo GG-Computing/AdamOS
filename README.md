@@ -10,7 +10,7 @@ AdamOS is python based "external" operating system built in python which layers 
 
 * **Focuses on Productivity:** No distractions in this operating system.
 * **Free and Open Source:** Available for free with no licensing fees.
-* **Runs anywhere Python does:** Anywhere Python will run, AdamOS will.
+* **Accessible to Anyone:** Voice-Detection allows anyonne to use this OS.
 * **No Bloatware:** Unlike modern-day operating systems, AdamOS starts from scratch and allows the user to build the OS for themselves.
 * **Customizable:** AdamOS allows you to tweek the main source code, and update it in the OS in real-time.
 * **Lightweight and Minimalistic:** AdamOS is extremely minimalistic providing only the essential features you need at startup.
@@ -25,6 +25,7 @@ AdamOS is python based "external" operating system built in python which layers 
 * **Sprite Editor**
 * **.py Builder**
 * **16-bit Music Composition Tool**
+* **Voice-Detection Commands & Scripting**
 
 ### Contributions
 * Due to AdamOS only being developed by 2 people, contributions are welcome to speed up the development process.
