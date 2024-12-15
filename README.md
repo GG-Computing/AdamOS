@@ -46,10 +46,10 @@ Coming Soon.
 
 ## Authors
 
-Contributors names and contact info
+Contributors:
 
-@Oliver G
-@Ryan G
+* **@Oliver G**
+* **@Ryan G**
 
 ## License
 
