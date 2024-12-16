@@ -1,4 +1,5 @@
- # AdamOS | Releasing Soon, ⭐ the repo!
+
+ # AdamOS | ⭐
 
 AdamOS is an "external" operating system which is built completely in Python.
 
@@ -26,22 +27,14 @@ AdamOS is an "external" operating system which is built completely in Python.
 * **8-bit Music Composition Tool**
 * **Voice-Detection Commands & Scripting**
 
-### Contributions
-* Due to AdamOS only being developed by 2 people, contributions are welcome to speed up the development process.
-
-### Installing
-
-For a quick installation use the following command inside the project folder:
-
-``pip install -r requirements.txt``
-
-### Executing program
-
-* Coming soon
+## Contributions
+* Due to AdamOS only being developed by 2 people, contributions are welcome to help speed up the development process.
 
 ## Help
 
-Coming Soon.
+For a quick installation use the following command inside the project folder:
+
+```pip install -r requirements.txt```
 
 ## Authors
 
