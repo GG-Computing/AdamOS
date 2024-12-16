@@ -30,11 +30,13 @@ AdamOS is an "external" operating system which is built completely in Python.
 ## Contributions
 * Due to AdamOS only being developed by 2 people, contributions are welcome to help speed up the development process.
 
+
 ## Help
 
 For a quick installation use the following command inside the project folder:
 
 ```pip install -r requirements.txt```
+
 
 ## Authors
 
@@ -42,6 +44,7 @@ Contributors:
 
 * **@Oliver G**
 * **@Ryan G**
+
 
 ## License
 
