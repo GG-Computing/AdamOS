@@ -1,5 +1,5 @@
 
- # AdamOS | ⭐
+ # AdamOS | ⭐ (Releasing 2025)
 
 AdamOS is an "external" operating system which is built completely in Python.
 
