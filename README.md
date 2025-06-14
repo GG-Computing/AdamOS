@@ -37,15 +37,6 @@ For a quick installation use the following command inside the project folder:
 
 ```pip install -r requirements.txt```
 
-
-## Authors
-
-Contributors:
-
-* **@Oliver G**
-* **@Ryan G**
-
-
 ## License
 
 This project is licensed under the [MIT License] License - see the LICENSE.md file for details
